@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Nacionalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nacionalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cientistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cientistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cientista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cientista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\PC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\MenuInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Avisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Avisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fim.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Fim.cs",
+              "RelativeDocumentMoniker": "Fim.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Fim.cs",
+              "RelativeToolTip": "Fim.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T20:19:15.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PC.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\PC.cs",
+              "RelativeDocumentMoniker": "PC.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\PC.cs",
+              "RelativeToolTip": "PC.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAIEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:05:13.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T01:06:22.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuInicial.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\MenuInicial.cs",
+              "RelativeDocumentMoniker": "MenuInicial.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\MenuInicial.cs",
+              "RelativeToolTip": "MenuInicial.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T23:52:06.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nacionalidade.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Nacionalidade.cs",
+              "RelativeDocumentMoniker": "Nacionalidade.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Nacionalidade.cs",
+              "RelativeToolTip": "Nacionalidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:05:11.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sexo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Sexo.cs",
+              "RelativeDocumentMoniker": "Sexo.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Sexo.cs",
+              "RelativeToolTip": "Sexo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:05:15.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cor.cs",
+              "RelativeDocumentMoniker": "Cor.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cor.cs",
+              "RelativeToolTip": "Cor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:05:07.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Area.cs",
+              "RelativeDocumentMoniker": "Area.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Area.cs",
+              "RelativeToolTip": "Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:04:50.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cientistas.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cientistas.cs",
+              "RelativeDocumentMoniker": "Cientistas.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cientistas.cs",
+              "RelativeToolTip": "Cientistas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:05:05.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cientista.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cientista.cs",
+              "RelativeDocumentMoniker": "Cientista.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Cientista.cs",
+              "RelativeToolTip": "Cientista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T21:52:56.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:05:02.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Avisos.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Avisos.cs",
+              "RelativeDocumentMoniker": "Avisos.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Cara a Cara dos Cientistas\\Assets\\Scripts\\Avisos.cs",
+              "RelativeToolTip": "Avisos.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T21:04:58.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
