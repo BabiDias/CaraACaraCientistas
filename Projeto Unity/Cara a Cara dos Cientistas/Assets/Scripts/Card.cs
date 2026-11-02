@@ -62,6 +62,8 @@ public class Card : MonoBehaviour
 
             if (Cientistas.cientistasRodada[i].nacionalidade == "bra")
                 cards[i].transform.GetChild(5).gameObject.SetActive(true); // bandeira do Brasil
+            else
+                cards[i].transform.GetChild(5).gameObject.SetActive(false); // bandeira do Brasil
         }
     }
 
